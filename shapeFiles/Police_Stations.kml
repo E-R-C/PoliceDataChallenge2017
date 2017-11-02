@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Headquarters</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="GIS_ID">24_1</SimpleData>
+		<SimpleData name="SRCID_T">6</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Headquarters</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">1334003</SimpleData>
+		<SimpleData name="ADDRESS">601 E Fayette St</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="X_COORD">1423371.09421822</SimpleData>
+		<SimpleData name="Y_COORD">591525.95171409</SimpleData>
+		<SimpleData name="NGHBRHD">Downtown</SimpleData>
+		<SimpleData name="CNCLDST">11</SimpleData>
+		<SimpleData name="STFID_BLK">24510401001046</SimpleData>
+		<SimpleData name="PLCDST_NO">1</SimpleData>
+		<SimpleData name="PLCDST">CENTRAL</SimpleData>
+		<SimpleData name="USNG">18S UJ 61354 50215</SimpleData>
+		<SimpleData name="TOTSQFT">319857</SimpleData>
+		<SimpleData name="COMMANDER">Commissioner Frederick H. Bealefeld, III </SimpleData>
+		<SimpleData name="PHONE">410-396-2525</SimpleData>
+		<SimpleData name="GlobalID">{8E12DA2D-B060-4FFF-B73D-A6D95EC36ED7}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60769033005738,39.290228320773736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="GIS_ID">24_2</SimpleData>
+		<SimpleData name="SRCID_T">9</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">1334001</SimpleData>
+		<SimpleData name="ADDRESS">500 E Baltimore St</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="X_COORD">1423133.16982529</SimpleData>
+		<SimpleData name="Y_COORD">591444.15889868</SimpleData>
+		<SimpleData name="NGHBRHD">Downtown</SimpleData>
+		<SimpleData name="CNCLDST">11</SimpleData>
+		<SimpleData name="STFID_BLK">24510401001046</SimpleData>
+		<SimpleData name="PLCDST_NO">1</SimpleData>
+		<SimpleData name="PLCDST">CENTRAL</SimpleData>
+		<SimpleData name="USNG">18S UJ 61281 50192</SimpleData>
+		<SimpleData name="TOTSQFT">61496</SimpleData>
+		<SimpleData name="COMMANDER">Major Dennis Smtih</SimpleData>
+		<SimpleData name="PHONE">410-396-2411</SimpleData>
+		<SimpleData name="GlobalID">{BB91946E-3DB9-44DD-B27F-AFA4038E6051}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.608532179207415,39.290006564987472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="GIS_ID">24_3</SimpleData>
+		<SimpleData name="SRCID_T">10</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">3357E009A</SimpleData>
+		<SimpleData name="ADDRESS">2201 W Cold Spring Ln</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="X_COORD">1410761.55021164</SimpleData>
+		<SimpleData name="Y_COORD">610633.31113712</SimpleData>
+		<SimpleData name="NGHBRHD">Woodberry</SimpleData>
+		<SimpleData name="CNCLDST">6</SimpleData>
+		<SimpleData name="STFID_BLK">245101308061001</SimpleData>
+		<SimpleData name="PLCDST_NO">5</SimpleData>
+		<SimpleData name="PLCDST">NORTHERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 57641 56122</SimpleData>
+		<SimpleData name="TOTSQFT">17691</SimpleData>
+		<SimpleData name="USESQFT">15081</SimpleData>
+		<SimpleData name="COMMANDER">Major Ross Buzzuro</SimpleData>
+		<SimpleData name="PHONE">410-396-2455</SimpleData>
+		<SimpleData name="GlobalID">{57BDA944-4DCD-4FC8-B580-8DCD5FC8C31C}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.651983798602657,39.342827063908807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northeastern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="GIS_ID">24_4</SimpleData>
+		<SimpleData name="SRCID_T">11</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">5387002A</SimpleData>
+		<SimpleData name="ADDRESS">1900 Argonne Dr</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="X_COORD">1430349.72527401</SimpleData>
+		<SimpleData name="Y_COORD">610088.91524426</SimpleData>
+		<SimpleData name="NGHBRHD">Morgan State University</SimpleData>
+		<SimpleData name="CNCLDST">3</SimpleData>
+		<SimpleData name="STFID_BLK">245102709031000</SimpleData>
+		<SimpleData name="PLCDST_NO">4</SimpleData>
+		<SimpleData name="PLCDST">NORTHEASTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 63605 55824</SimpleData>
+		<SimpleData name="TOTSQFT">29463</SimpleData>
+		<SimpleData name="USESQFT">25117</SimpleData>
+		<SimpleData name="COMMANDER">Major Delmar Dickson, Jr.</SimpleData>
+		<SimpleData name="PHONE">410-396-2444</SimpleData>
+		<SimpleData name="GlobalID">{79A16D87-5ED1-4523-A623-FB5C7BF0C824}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.582734403360874,39.341107049350484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwestern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="GIS_ID">24_5</SimpleData>
+		<SimpleData name="SRCID_T">12</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">4543B027</SimpleData>
+		<SimpleData name="ADDRESS">5271 Reisterstown Rd</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="X_COORD">1401376.69234096</SimpleData>
+		<SimpleData name="Y_COORD">611335.61616295</SimpleData>
+		<SimpleData name="NGHBRHD">Woodmere</SimpleData>
+		<SimpleData name="CNCLDST">5</SimpleData>
+		<SimpleData name="STFID_BLK">245102718012002</SimpleData>
+		<SimpleData name="PLCDST_NO">6</SimpleData>
+		<SimpleData name="PLCDST">NORTHWESTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 54786 56399</SimpleData>
+		<SimpleData name="TOTSQFT">21217</SimpleData>
+		<SimpleData name="USESQFT">18087</SimpleData>
+		<SimpleData name="COMMANDER">Major Johnny Delgado</SimpleData>
+		<SimpleData name="PHONE">410-396-2466</SimpleData>
+		<SimpleData name="GlobalID">{57A7C213-295E-4CE7-9B5F-AB42C6DC0773}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.685157558808498,39.344848739885038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="GIS_ID">24_6</SimpleData>
+		<SimpleData name="SRCID_T">13</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">1476002</SimpleData>
+		<SimpleData name="ADDRESS">1620 Edison Hwy</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="X_COORD">1432989.48803909</SimpleData>
+		<SimpleData name="Y_COORD">598770.85618752</SimpleData>
+		<SimpleData name="NGHBRHD">Berea</SimpleData>
+		<SimpleData name="CNCLDST">13</SimpleData>
+		<SimpleData name="STFID_BLK">24510802001001</SimpleData>
+		<SimpleData name="PLCDST_NO">3</SimpleData>
+		<SimpleData name="PLCDST">EASTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 64334 52358</SimpleData>
+		<SimpleData name="TOTSQFT">23353</SimpleData>
+		<SimpleData name="USESQFT">19908</SimpleData>
+		<SimpleData name="COMMANDER">Major Melvin Russell</SimpleData>
+		<SimpleData name="PHONE">410-396-2433</SimpleData>
+		<SimpleData name="GlobalID">{207D4271-9AEE-4503-9C89-E1AEB7B80A4D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.573588106312499,39.31000051713184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="GIS_ID">24_7</SimpleData>
+		<SimpleData name="SRCID_T">14</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">7610011</SimpleData>
+		<SimpleData name="ADDRESS">10 Cherry Hill Rd</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="X_COORD">1420755.95410727</SimpleData>
+		<SimpleData name="Y_COORD">577973.31280894</SimpleData>
+		<SimpleData name="NGHBRHD">Middle Branch/Reedbird Parks</SimpleData>
+		<SimpleData name="CNCLDST">10</SimpleData>
+		<SimpleData name="STFID_BLK">245102502031002</SimpleData>
+		<SimpleData name="PLCDST_NO">9</SimpleData>
+		<SimpleData name="PLCDST">SOUTHERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 60466 46104</SimpleData>
+		<SimpleData name="TOTSQFT">20286</SimpleData>
+		<SimpleData name="USESQFT">17294</SimpleData>
+		<SimpleData name="COMMANDER">Major Margaret Barillaro</SimpleData>
+		<SimpleData name="PHONE">410-396-2499</SimpleData>
+		<SimpleData name="GlobalID">{20C2E44F-7F47-4884-AD7B-A541FC82A14F}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.617130700359411,39.253050193465789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southeastern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="GIS_ID">24_8</SimpleData>
+		<SimpleData name="SRCID_T">15</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">DG_100</SimpleData>
+		<SimpleData name="STREET_TAG">&lt;Null&gt;</SimpleData>
+		<SimpleData name="PRCL_PIN">6332009</SimpleData>
+		<SimpleData name="ADDRESS">5710 Eastern Av</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="X_COORD">1440358.75394095</SimpleData>
+		<SimpleData name="Y_COORD">590597.49550788</SimpleData>
+		<SimpleData name="NGHBRHD">Hopkins Bayview</SimpleData>
+		<SimpleData name="CNCLDST">2</SimpleData>
+		<SimpleData name="STFID_BLK">245102605011000</SimpleData>
+		<SimpleData name="PLCDST_NO">2</SimpleData>
+		<SimpleData name="PLCDST">SOUTHEASTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 66544 49866</SimpleData>
+		<SimpleData name="TOTSQFT">26124</SimpleData>
+		<SimpleData name="USESQFT">22271</SimpleData>
+		<SimpleData name="COMMANDER">Major William Davis</SimpleData>
+		<SimpleData name="PHONE">410-396-2411</SimpleData>
+		<SimpleData name="GlobalID">{0804C8B8-0EE3-4717-A914-72AEDECAFB16}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.547463644473481,39.287897646263261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southwestern</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="GIS_ID">24_9</SimpleData>
+		<SimpleData name="SRCID_T">16</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">DG_100</SimpleData>
+		<SimpleData name="STREET_TAG">&lt;Null&gt;</SimpleData>
+		<SimpleData name="PRCL_PIN">2132020</SimpleData>
+		<SimpleData name="ADDRESS">424 Font Hill Av</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="X_COORD">1407597.85898342</SimpleData>
+		<SimpleData name="Y_COORD">587302.51834442</SimpleData>
+		<SimpleData name="NGHBRHD">Gwynns Falls</SimpleData>
+		<SimpleData name="CNCLDST">8</SimpleData>
+		<SimpleData name="STFID_BLK">245102006001023</SimpleData>
+		<SimpleData name="PLCDST_NO">8</SimpleData>
+		<SimpleData name="PLCDST">SOUTHWESTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 56480 48992</SimpleData>
+		<SimpleData name="TOTSQFT">21432</SimpleData>
+		<SimpleData name="USESQFT">18015</SimpleData>
+		<SimpleData name="COMMANDER">Major Eric Russell</SimpleData>
+		<SimpleData name="PHONE">410-396-2488</SimpleData>
+		<SimpleData name="GlobalID">{7303A622-74DA-4F44-BB0C-2736B9F9373D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.663932339733705,39.278418428770479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="GIS_ID">24_10</SimpleData>
+		<SimpleData name="SRCID_T">17</SimpleData>
+		<SimpleData name="EDIT_DATE">2011-03-29T16:28:52.000Z</SimpleData>
+		<SimpleData name="FTYPE">24</SimpleData>
+		<SimpleData name="SUBTYPE">Police Station</SimpleData>
+		<SimpleData name="LOC_TYPE">CP</SimpleData>
+		<SimpleData name="LOC_METH">GC_200</SimpleData>
+		<SimpleData name="PRCL_PIN">0060007</SimpleData>
+		<SimpleData name="ADDRESS">1034 N Mount St</SimpleData>
+		<SimpleData name="CITY">Baltimore</SimpleData>
+		<SimpleData name="STATE">MD</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="X_COORD">1412810.19604872</SimpleData>
+		<SimpleData name="Y_COORD">595258.78873659</SimpleData>
+		<SimpleData name="NGHBRHD">Sandtown-Winchester</SimpleData>
+		<SimpleData name="CNCLDST">9</SimpleData>
+		<SimpleData name="STFID_BLK">245101603001008</SimpleData>
+		<SimpleData name="PLCDST_NO">7</SimpleData>
+		<SimpleData name="PLCDST">WESTERN</SimpleData>
+		<SimpleData name="USNG">18S UJ 58162 51424</SimpleData>
+		<SimpleData name="TOTSQFT">28723</SimpleData>
+		<SimpleData name="USESQFT">24486</SimpleData>
+		<SimpleData name="COMMANDER">Major Robert L. Booker, Jr.</SimpleData>
+		<SimpleData name="PHONE">410-396-2477</SimpleData>
+		<SimpleData name="GlobalID">{6AB86540-80F9-439A-BB58-1C93B98A3904}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.644951774056366,39.300595401912283</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="GIS_ID" type="string"></SimpleField>
+	<SimpleField name="SRCID_T" type="string"></SimpleField>
+	<SimpleField name="SRCID_I" type="string"></SimpleField>
+	<SimpleField name="EDIT_DATE" type="string"></SimpleField>
+	<SimpleField name="FTYPE" type="int"></SimpleField>
+	<SimpleField name="SUBTYPE" type="string"></SimpleField>
+	<SimpleField name="LOC_TYPE" type="string"></SimpleField>
+	<SimpleField name="LOC_METH" type="string"></SimpleField>
+	<SimpleField name="STREET_TAG" type="string"></SimpleField>
+	<SimpleField name="PRCL_PIN" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="CITY" type="string"></SimpleField>
+	<SimpleField name="STATE" type="string"></SimpleField>
+	<SimpleField name="ZIPCODE" type="string"></SimpleField>
+	<SimpleField name="X_COORD" type="float"></SimpleField>
+	<SimpleField name="Y_COORD" type="float"></SimpleField>
+	<SimpleField name="ALIAS1" type="string"></SimpleField>
+	<SimpleField name="NGHBRHD" type="string"></SimpleField>
+	<SimpleField name="CNCLDST" type="string"></SimpleField>
+	<SimpleField name="STFID_BLK" type="string"></SimpleField>
+	<SimpleField name="PLCDST_NO" type="int"></SimpleField>
+	<SimpleField name="PLCDST" type="string"></SimpleField>
+	<SimpleField name="USNG" type="string"></SimpleField>
+	<SimpleField name="TOTSQFT" type="int"></SimpleField>
+	<SimpleField name="USESQFT" type="string"></SimpleField>
+	<SimpleField name="COMMANDER" type="string"></SimpleField>
+	<SimpleField name="PHONE" type="string"></SimpleField>
+	<SimpleField name="CNTCT_NME" type="string"></SimpleField>
+	<SimpleField name="CNTCT_PHN" type="string"></SimpleField>
+	<SimpleField name="CNTCT_DPT" type="string"></SimpleField>
+	<SimpleField name="GlobalID" type="string"></SimpleField>
+	<SimpleField name="URL" type="string"></SimpleField>
+</Schema>
+</Document></kml>
